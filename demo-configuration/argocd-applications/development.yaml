@@ -18,7 +18,7 @@ spec:
     hydrateTo:
       targetBranch: environments/development-next
     syncSource:
-      path: .
+      path: user-configuration/development/dev
       targetBranch: environments/development
   syncPolicy:
     automated: {}
