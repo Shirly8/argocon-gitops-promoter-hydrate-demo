@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/Shirly8/argocon-gitops-promoter-hydrate-demo",
-  "drySha": "59f2ac5b55a87998a5680d613a66752cc8a9a416",
+  "drySha": "14bb0d80d6aa060636b7cc4c82fcb1543e5dc71e",
   "author": "Shirley Huang <119460773+Shirly8@users.noreply.github.com>",
-  "date": "2025-07-03T14:22:09Z",
+  "date": "2025-07-03T14:29:37Z",
   "subject": "Update kustomization.yaml"
 }
