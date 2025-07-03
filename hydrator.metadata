@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/Shirly8/argocon-gitops-promoter-hydrate-demo",
-  "drySha": "f715d547e60cbc3c994ba311a2016301b37a0b96",
-  "commands": [
-    "kustomize build ./user-configuration/development"
-  ]
+  "drySha": "142fefc268e2d648e3e2ddc6c0a095f5a4c4d305",
+  "author": "shirlyh8 <shirleyHuang7@hotmail.com>",
+  "date": "2025-07-03T19:42:21Z",
+  "subject": "Hydrate dev manifests to subfolder and update ArgoCD Application"
 }
