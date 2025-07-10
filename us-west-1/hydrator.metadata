@@ -1,6 +1,6 @@
 {
   "repoURL": "https://github.com/Shirly8/argocon-gitops-promoter-hydrate-demo",
-  "drySha": "fa1f80a10686ba48bc2b348e8c3ed4a9c1b6ad7c",
+  "drySha": "c6ff1504ea9f2a7d45b01834ef88c62fdaed5488",
   "commands": [
     "kustomize build ./user-configuration/production/us-west-1"
   ]
