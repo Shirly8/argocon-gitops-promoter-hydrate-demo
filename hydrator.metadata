@@ -1,16 +1,19 @@
 {
   "repoURL": "https://github.com/Shirly8/argocon-gitops-promoter-hydrate-demo",
-  "drySha": "cb408829768fdbd404cdad705167e4492a57632f",
+  "drySha": "0ffdb784c479ccd24b57e9dc4f149d8952367d00",
   "author": "Shirley Huang <119460773+Shirly8@users.noreply.github.com>",
-  "date": "2025-07-18T15:01:39Z",
-  "subject": "Update kustomization.yaml",
-  "body": "This is a subject look at me\r\n\r\nthis is the body look up at the subject\r\n\r\nArgocd-reference-commit-author-name: Author Name\r\nArgocd-reference-commit-author-email: author@example.com\r\nArgocd-reference-commit-sha: af3432\r\nArgocd-reference-commit-subject: Commit message of the code commit\r\nArgocd-reference-commit-body: Commit message of the code\r\nSigned-off-by: Zach Aller <zach_aller@intuit.com>",
+  "date": "2025-07-22T18:03:52Z",
+  "subject": "Bump image to v1.2.3",
+  "body": "this is the body look up at the subject\r\n\r\n\r\nArgocd-reference-commit-author: Author Name <author@example.com>\r\nArgocd-reference-commit-author-email: author@example.com\"\r\nArgocd-reference-commit-sha: fe3b23ae3\r\nArgocd-reference-commit-subject: Commit subject of the code commit\r\nArgocd-reference-commit-body: \"Commit message of the code commit\\n\\nSigned-off-by: Author Name <author@example.com>\"\r\nArgocd-reference-commit-repourl: https://git.example.com/owner/repo\r\nArgocd-reference-commit-date: 2025-06-09T13:50:18-04:00",
   "references": [
     {
       "commit": {
-        "author": "<@>",
-        "subject": "Commit message of the code commit",
-        "sha": "af3432"
+        "author": "\"Author Name\" <author@example.com>",
+        "date": "2025-06-09T13:50:18-04:00",
+        "subject": "Commit subject of the code commit",
+        "body": "Commit message of the code commit\n\nSigned-off-by: Author Name <author@example.com>",
+        "sha": "fe3b23ae3",
+        "repoUrl": "https://git.example.com/owner/repo"
       }
     }
   ]
