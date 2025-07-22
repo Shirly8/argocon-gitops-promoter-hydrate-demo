@@ -1,7 +1,17 @@
 {
   "repoURL": "https://github.com/Shirly8/argocon-gitops-promoter-hydrate-demo",
-  "drySha": "14b18993ee6b8b3703c64def2c276dbac1da8504",
+  "drySha": "cb408829768fdbd404cdad705167e4492a57632f",
   "author": "Shirley Huang <119460773+Shirly8@users.noreply.github.com>",
-  "date": "2025-07-10T15:33:00Z",
-  "subject": "Update kustomization.yaml"
+  "date": "2025-07-18T15:01:39Z",
+  "subject": "Update kustomization.yaml",
+  "body": "This is a subject look at me\r\n\r\nthis is the body look up at the subject\r\n\r\nArgocd-reference-commit-author-name: Author Name\r\nArgocd-reference-commit-author-email: author@example.com\r\nArgocd-reference-commit-sha: af3432\r\nArgocd-reference-commit-subject: Commit message of the code commit\r\nArgocd-reference-commit-body: Commit message of the code\r\nSigned-off-by: Zach Aller <zach_aller@intuit.com>",
+  "references": [
+    {
+      "commit": {
+        "author": "<@>",
+        "subject": "Commit message of the code commit",
+        "sha": "af3432"
+      }
+    }
+  ]
 }
