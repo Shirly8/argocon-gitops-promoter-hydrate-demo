@@ -1,16 +1,19 @@
 {
   "repoURL": "https://github.com/Shirly8/argocon-gitops-promoter-hydrate-demo",
-  "drySha": "977246f4a602d81976c155170c34616d574df640",
+  "drySha": "ab8888d81739373ae239016500d9571c1f56bc3f",
   "author": "Shirley Huang <119460773+Shirly8@users.noreply.github.com>",
-  "date": "2025-07-23T20:34:00Z",
-  "subject": "Something is wrog",
-  "body": "Testinga\r\n\r\nArgocd-reference-commit-author-name: Author Name\r\nArgocd-reference-commit-author-email: author@example.com\r\nArgocd-reference-commit-sha: af3432\r\nArgocd-reference-commit-subject: Commit message of the code commit\r\nArgocd-reference-commit-body: Commit message of the code",
+  "date": "2025-07-23T21:19:31Z",
+  "subject": "Testing Again",
+  "body": "SOMETHING IS UP\r\n\r\nArgocd-reference-commit-sha: af3432\r\nArgocd-reference-commit-author: Shirley Huang <Shirley.Huang@example.com>\r\nArgocd-reference-commit-subject: Commit message of the code commit\r\nArgocd-reference-commit-body: \"This is the ArgoCD Body commit bodyt\\n\\nSigned-off-by: Author Name <author@example.com>\"\r\nArgocd-reference-commit-repourl: https://google.com\r\nArgocd-reference-commit-date: 2025-06-09T13:50:18-04:00",
   "references": [
     {
       "commit": {
-        "author": "<@>",
+        "author": "\"Shirley Huang\" <Shirley.Huang@example.com>",
+        "date": "2025-06-09T13:50:18-04:00",
         "subject": "Commit message of the code commit",
-        "sha": "af3432"
+        "body": "This is the ArgoCD Body commit bodyt\n\nSigned-off-by: Author Name <author@example.com>",
+        "sha": "af3432",
+        "repoUrl": "https://google.com"
       }
     }
   ]
