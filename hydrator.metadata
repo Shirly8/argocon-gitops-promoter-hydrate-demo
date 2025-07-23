@@ -1,17 +1,17 @@
 {
   "repoURL": "https://github.com/Shirly8/argocon-gitops-promoter-hydrate-demo",
-  "drySha": "fb44e3e1b4cc3fe407edb22c56c70aef6217f01a",
+  "drySha": "2e133428328b64e750f840296ab2e05ea6c9c110",
   "author": "Shirley Huang <119460773+Shirly8@users.noreply.github.com>",
-  "date": "2025-07-23T20:18:21Z",
-  "subject": "Commit Subject",
-  "body": "Commit body\r\n\r\nArgocd-reference-commit-sha: a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0\r\nArgocd-reference-commit-author: John Developer <john@example.com>\r\nArgocd-reference-commit-subject: Fix critical bug in authentication service\r\nArgocd-reference-commit-body: This commit fixes a critical security vulnerability...\r\nArgocd-reference-commit-date: 2024-01-15T10:30:00Z\r\nArgocd-reference-commit-repourl: https://github.com/example/repo",
+  "date": "2025-07-23T20:28:27Z",
+  "subject": "Sha's not appearing",
+  "body": "Made sure the trailers were templated correctly, not sure if this works\r\n\r\nOkay\r\n\r\nArgocd-reference-commit-sha: Ce3b23ae3f5e131d9d1ee53ef18526d768ae3f5e131\r\nArgocd-reference-commit-author: Shirley Huang <Shirley.Huang@example.com>\r\nArgocd-reference-commit-message: So is this ArgoCD Reference commit subject\r\nArgocd-reference-commit-body: \"Yes this is the body and \\nSigned-off-by: Author Name <author@example.com>\"\r\nArgocd-reference-commit-repourl: https://google.com\r\nArgocd-reference-commit-date: 2025-06-09T13:50:18-04:00",
   "references": [
     {
       "commit": {
-        "author": "\"John Developer\" <john@example.com>",
-        "date": "2024-01-15T10:30:00Z",
-        "subject": "Fix critical bug in authentication service",
-        "repoUrl": "https://github.com/example/repo"
+        "author": "\"Shirley Huang\" <Shirley.Huang@example.com>",
+        "date": "2025-06-09T13:50:18-04:00",
+        "body": "Yes this is the body and \nSigned-off-by: Author Name <author@example.com>",
+        "repoUrl": "https://google.com"
       }
     }
   ]
