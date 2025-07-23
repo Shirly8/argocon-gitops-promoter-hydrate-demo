@@ -1,18 +1,17 @@
 {
   "repoURL": "https://github.com/Shirly8/argocon-gitops-promoter-hydrate-demo",
-  "drySha": "c8260214175c12ee887fd70f552b0812c98dc117",
+  "drySha": "aa5a2db28061d9d1ee53ef18526d768ae3f5e131",
   "author": "Shirley Huang <119460773+Shirly8@users.noreply.github.com>",
-  "date": "2025-07-22T20:15:00Z",
-  "subject": "Bump image to v1.2.3 testing",
-  "body": "this is the body look up at the subject\r\n\r\n\r\nArgocd-reference-commit-author: John Doe <john.doe@example.com>\r\nArgocd-reference-commit-author-email: author@example.com\"\r\nArgocd-reference-commit-sha: be3b23ae3\r\nArgocd-reference-commit-subject: This is the ArgoCD Reference commit subject\r\nArgocd-reference-commit-body: \"This is the ArgoCD Body commit bodyt\\n\\nSigned-off-by: Author Name <author@example.com>\"\r\nArgocd-reference-commit-repourl: https://google.com\r\nArgocd-reference-commit-date: 2025-06-09T13:50:18-04:00",
+  "date": "2025-07-23T19:13:36Z",
+  "subject": "Update kustomization.yaml",
+  "body": "Subject Body is Wed July 23 3:12PM\r\n\r\nArgocd-reference-commit-author: Shirley Huang <Shirley.Huang@example.com>\r\nArgocd-reference-commit-sha: Ce3b23ae3\r\nArgocd-reference-commit-subject: So is this ArgoCD Reference commit subject \r\nArgocd-reference-commit-body: \"Yes this is the body and \\nSigned-off-by: Author Name <author@example.com>\"\r\nArgocd-reference-commit-repourl: https://google.com\r\nArgocd-reference-commit-date: 2025-06-09T13:50:18-04:00",
   "references": [
     {
       "commit": {
-        "author": "\"John Doe\" <john.doe@example.com>",
+        "author": "\"Shirley Huang\" <Shirley.Huang@example.com>",
         "date": "2025-06-09T13:50:18-04:00",
-        "subject": "This is the ArgoCD Reference commit subject",
-        "body": "This is the ArgoCD Body commit bodyt\n\nSigned-off-by: Author Name <author@example.com>",
-        "sha": "be3b23ae3",
+        "subject": "So is this ArgoCD Reference commit subject",
+        "body": "Yes this is the body and \nSigned-off-by: Author Name <author@example.com>",
         "repoUrl": "https://google.com"
       }
     }
