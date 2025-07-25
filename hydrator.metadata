@@ -1,10 +1,10 @@
 {
   "repoURL": "https://github.com/Shirly8/argocon-gitops-promoter-hydrate-demo",
-  "drySha": "cc7c70abb652b26aabc6e265b7b8107e6f6219bd",
+  "drySha": "5bdfe67c121746eb91a064adbcd107de8b66ca5a",
   "author": "Shirley Huang <119460773+Shirly8@users.noreply.github.com>",
-  "date": "2025-07-24T20:05:36Z",
+  "date": "2025-07-25T14:17:24Z",
   "subject": "Update kustomization.yaml",
-  "body": "testing123\r\n\r\nArgocd-reference-commit-sha: bf3432\r\nArgocd-reference-commit-author: Shirley Huang <Shirley.Huang@example.com>\r\nArgocd-reference-commit-subject: Hopefully this works final time\r\nArgocd-reference-commit-body: \"Yes this is the body and \\nSigned-off-by: Author Name <author@example.com>\"\r\nArgocd-reference-commit-repourl: https://google.com\r\nArgocd-reference-commit-date: 2025-07-10T13:50:18-04:00",
+  "body": "Testing Again\r\n\r\nArgocd-reference-commit-sha: bf3432\r\nArgocd-reference-commit-author: Shirley Huang <Shirley.Huang@example.com>\r\nArgocd-reference-commit-subject: Hopefully this works final time\r\nArgocd-reference-commit-body: \"Yes this is the body and \\nSigned-off-by: Author Name <author@example.com>\"\r\nArgocd-reference-commit-repourl: https://google.com\r\nArgocd-reference-commit-date: 2025-07-10T13:50:18-04:00",
   "references": [
     {
       "commit": {
