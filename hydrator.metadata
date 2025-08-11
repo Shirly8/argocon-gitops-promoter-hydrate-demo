@@ -1,16 +1,16 @@
 {
   "repoURL": "https://github.com/Shirly8/argocon-gitops-promoter-hydrate-demo",
-  "drySha": "55a01e41cd7731aee81e1b9bcf9ea2d02bd8fc00",
+  "drySha": "34241d7205054376c17b8abdde6efe2c52474e0d",
   "author": "Shirley Huang <119460773+Shirly8@users.noreply.github.com>",
-  "date": "2025-08-11T14:54:34Z",
-  "subject": "Second Update of History",
-  "body": "This is second update\r\n\r\nArgocd-reference-commit-sha: bf3432\r\nArgocd-reference-commit-author: Shirley Huang <Shirley.Huang@example.com>\r\nArgocd-reference-commit-subject: This I the second update of history\r\nArgocd-reference-commit-body: “Hi \\nSigned-off-by: Author Name <author@example.com>\"\r\nArgocd-reference-commit-repourl: https://google.com\r\nArgocd-reference-commit-date: 2025-07-10T13:50:18-04:00",
+  "date": "2025-08-11T15:31:47Z",
+  "subject": "Third History update",
+  "body": "Third Update\r\n\r\nArgocd-reference-commit-sha: bf3432\r\nArgocd-reference-commit-author: Shirley Huang <Shirley.Huang@example.com>\r\nArgocd-reference-commit-subject: This I the third update of history\r\nArgocd-reference-commit-body: “Hi \\nSigned-off-by: Author Name <author@example.com>\"\r\nArgocd-reference-commit-repourl: https://google.com\r\nArgocd-reference-commit-date: 2025-07-10T13:50:18-04:00",
   "references": [
     {
       "commit": {
         "author": "\"Shirley Huang\" <Shirley.Huang@example.com>",
         "date": "2025-07-10T13:50:18-04:00",
-        "subject": "This I the second update of history",
+        "subject": "This I the third update of history",
         "sha": "bf3432",
         "repoUrl": "https://google.com"
       }
